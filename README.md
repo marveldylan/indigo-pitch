@@ -17,7 +17,7 @@
 
 
 ## **Mobile Mockup**
-![Image](./assets/mock.jpeg)
+![Image](./assets/mock.png)
 
 ## **Instructions for Developers (for local use)**
 * Fork and clone this repo
@@ -39,6 +39,7 @@
 
 ## ***Future Updates***
 - [X] ~~Submit README.md~~
+- Check back here for details on when we deploy!
 
 
 
